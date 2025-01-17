@@ -125,6 +125,13 @@ button {
     background-color: #a1a1a1;
 }
 
+.button-remove {
+    background-color: #ef2625;
+    color: var(--color-white);
+    margin-left: 10px;
+    justify-items: center;
+}
+
 /* Listas */
 ul {
     list-style-type: none;
